@@ -1,0 +1,18 @@
+[MD007]
+indent = 2
+style = "fixed"
+
+[MD013]
+line-length = 400
+
+[MD024]
+siblings-only = true
+
+[MD026]
+punctuation = ".,;:!。，；:"
+
+[global]
+disable = ["MD029", "MD033", "MD036", "MD004"]
+editorconfig = true
+exclude = ["**/.agents/skills/**"]
+extend-enable = ["MD047"]
