@@ -33,10 +33,6 @@ plugins:
     id: mattpocock-skills
     type: github
 
-
-
-
-
 providers:
   # keep-sorted start
   - antigravity

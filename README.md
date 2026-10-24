@@ -6,7 +6,6 @@
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for setup, checks, and the contribution workflow.
 
-
 ## Agent instructions
 
 Common guidance lives in `.config/capabilities/instructions/project.md`;
@@ -17,15 +16,9 @@ rendered instructions, including when capa is not enabled.
 The sources use level-two headings; generated provider files supply the level-one
 heading. Local `.rumdl.toml` files validate the source fragments.
 
-
 Edit these Markdown sources, then run `mise run ai-setup` to refresh capa-managed
 provider files. Use `capa open` through mise to edit their declarations in the browser.
 Keep editable sources outside `.agents/rules/`, which capa uses for generated output.
-
-
-
-
-
 
 ## Recommendations
 
